@@ -1,5 +1,5 @@
 
-class user():
+class Order():
     def __init__(self, orderid, totalamount)
         self.orderid=orderid
         self.orderdate=datetime.date.today()

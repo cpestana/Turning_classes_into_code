@@ -1,7 +1,7 @@
 
-user.py
 
-class user():
+
+class User():
     def __init__(self, userid)
         self.userid=userid
         self.userpassword='P@ssword1'
